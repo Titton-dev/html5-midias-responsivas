@@ -42,5 +42,12 @@ Professor: Gustavo Guanabara
 ## 🎯 Observação
 
 Este projeto é simples e tem fins **educacionais**, sendo parte do meu processo de aprendizado e prática contínua em desenvolvimento web.
+---
+
+## 🎵 Licença do áudio
+
+O arquivo de áudio utilizado neste projeto foi baixado da **Biblioteca de Áudio do YouTube**, que disponibiliza músicas **gratuitas e com licenças livres para uso**.
+
+O áudio é utilizado apenas para fins **educacionais**, como parte do aprendizado de HTML5, sem qualquer finalidade comercial.
 
 ---
